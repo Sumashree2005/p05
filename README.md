@@ -1,2 +1,2 @@
 # p05
-dept of AIML
+dept of AI&ML
